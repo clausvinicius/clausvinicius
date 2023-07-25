@@ -16,5 +16,5 @@ Meu Nome é Claus Vinicius, estudante de Análise e Desenvolvimento de Sistemas.
 https://github.com/clausvinicius)
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clausvinicius&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clausvinicius&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clausvinicius&layout=compact&theme=radical)](https://github.com/clausvinicius/github-readme-stats)
