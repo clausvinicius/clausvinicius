@@ -15,6 +15,6 @@ Meu Nome é Claus Vinicius, estudante de Análise e Desenvolvimento de Sistemas.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](
 https://github.com/clausvinicius)
 
-##
+###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=clausvinicius&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clausvinicius&layout=compact&theme=radical)](https://github.com/clausvinicius/github-readme-stats)
