@@ -16,4 +16,4 @@ Meu Nome é Claus Vinicius, estudante de Análise e Desenvolvimento de Sistemas.
 https://github.com/clausvinicius)
 
 ###
-https://github-readme-stats.vercel.app/api?username=[clausvinicius]
+https://github-readme-stats.vercel.app/api?username=clausvinicius
